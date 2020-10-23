@@ -1,0 +1,4 @@
+﻿  Source.cpp
+W:\5 сем\ОСиСП\TextFonts\Source.cpp(183,8): warning C4101: hFont: неиспользованная локальная переменная
+W:\5 сем\ОСиСП\TextFonts\Source.cpp(200,7): warning C4101: tmp: неиспользованная локальная переменная
+  TextFonts.vcxproj -> W:\5 сем\ОСиСП\TextFonts\Debug\TextFonts.exe
